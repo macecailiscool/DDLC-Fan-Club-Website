@@ -1,0 +1,30 @@
+
+1. Name*
+   - [Text input field]
+
+2. Email Address*
+   - [Text input field]
+
+3. Grade Level*
+   - [Dropdown menu with grade options: Pre-K, Kindergarten, 1st Grade, 2nd Grade, 3rd Grade, 4th Grade, 5th Grade, 6th Grade, 7th Grade, 8th Grade, 9th Grade, 10th Grade, 11th Grade, 12th Grade]
+
+4. Gender
+   - [Radio buttons with options: Male, Female, Non-binary, Prefer not to say]
+
+5. Are you a student at Cedar Bluff School?*
+   - [Checkbox with options: Yes, No]
+
+6. Have you played Doki Doki Literature Club?*
+   - [Radio buttons with options: Yes, No]
+
+7. If yes, who is your favorite character?
+   - [Text input field]
+
+8. What aspect of the game interests you the most?
+   - [Checkbox with options: Story, Characters, Artwork, Music, Themes, Other]
+
+9. How did you hear about the DDLC Fan Club?
+   - [Text input field]
+
+10. Do you have any suggestions or ideas for club activities or events?
+    - [Text area for a longer response]
